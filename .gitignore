@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 private/
+_config.local.yml
