@@ -113,11 +113,9 @@ Segue-nos no Facebook e fica a par de todas as novidades, eventos e iniciativas 
 
 **[🔵 Facebook — Ateneu Popular do Montijo](https://www.facebook.com/AteneuPopularMontijo/)**
 Acompanha publicações, eventos e novidades no dia a dia.
-> *[→ Seguir no Facebook](https://www.facebook.com/AteneuPopularMontijo/)*
 
 **[💬 WhatsApp — Grupo do Ateneu Popular do Montijo](https://chat.whatsapp.com/F6TC578kGVmB1zUt1PfHM0)**
 Junta-te ao nosso grupo e fica a par de todas as novidades em tempo real.
-> *[→ Entrar no grupo WhatsApp](https://chat.whatsapp.com/F6TC578kGVmB1zUt1PfHM0)*
 
 ---
 
@@ -162,22 +160,3 @@ Torna-te membro do Ateneu Popular do Montijo e apoia a cultura e a educação em
 
 > *A quota de associação é simbólica e permite-te participar em todas as atividades com condições especiais.*
 
----
-
----
-
-<div align="center" markdown="1">
-
-## Ateneu Popular do Montijo
-
-*Cultura, Educação e Comunidade em Montijo*
-
-[Sobre](#sobre) · [Atividades](#atividades-e-eventos) · [Calendário](#calendário) · [Redes Sociais](#redes-sociais) · [Contactos](#contactos)
-
----
-
-© 2026 Ateneu Popular do Montijo. Todos os direitos reservados.
-
-*Associação Cultural sem Fins Lucrativos · Montijo, Portugal*
-
-</div>

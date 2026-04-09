@@ -1,0 +1,24 @@
+<link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+<link rel="shortcut icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/favicon.png' | relative_url }}">
+<style>
+  /* Limitar largura do conteúdo em desktop */
+  .initial-content,
+  .page__footer footer {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+
+  /* Esconder o footer do tema */
+  .page__footer {
+    display: none;
+  }
+
+  /* Esconder skip-links */
+  .skip-links {
+    display: none;
+  }
+</style>
