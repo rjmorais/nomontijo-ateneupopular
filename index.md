@@ -115,6 +115,10 @@ Segue-nos no Facebook e fica a par de todas as novidades, eventos e iniciativas 
 Acompanha publicações, eventos e novidades no dia a dia.
 > *[→ Seguir no Facebook](https://www.facebook.com/AteneuPopularMontijo/)*
 
+**[💬 WhatsApp — Grupo do Ateneu Popular do Montijo](https://chat.whatsapp.com/F6TC578kGVmB1zUt1PfHM0)**
+Junta-te ao nosso grupo e fica a par de todas as novidades em tempo real.
+> *[→ Entrar no grupo WhatsApp](https://chat.whatsapp.com/F6TC578kGVmB1zUt1PfHM0)*
+
 ---
 
 ## Contactos
@@ -135,6 +139,11 @@ Rua Luis Calado Nunes (Patio Aldegalega) Loja H
 
 **Telefone:**
 [21 231 5260](tel:+351212315260)
+
+---
+
+**WhatsApp:**
+[→ Entrar no grupo](https://chat.whatsapp.com/F6TC578kGVmB1zUt1PfHM0)
 
 ---
 
