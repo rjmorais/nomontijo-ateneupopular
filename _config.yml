@@ -10,3 +10,4 @@ url: "" # substituir pelo URL do GitHub Pages após publicação
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
