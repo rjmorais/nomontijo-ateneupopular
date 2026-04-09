@@ -14,17 +14,17 @@ lang: pt
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 # Ateneu Popular do Montijo
 
 ### *Cultura, Educação e Comunidade em Montijo*
 
-[![Sobre](https://img.shields.io/badge/Sobre-↓-blue?style=flat-square)](#sobre)
-[![Atividades](https://img.shields.io/badge/Atividades-↓-blue?style=flat-square)](#atividades-e-eventos)
-[![Calendário](https://img.shields.io/badge/Calendário-↓-blue?style=flat-square)](#calendário)
-[![Redes Sociais](https://img.shields.io/badge/Redes%20Sociais-↓-blue?style=flat-square)](#redes-sociais)
-[![Contactos](https://img.shields.io/badge/Contactos-↓-blue?style=flat-square)](#contactos)
+<a href="#sobre" style="display:inline-block;padding:8px 18px;margin:4px;background:#2c3e50;color:#fff;text-decoration:none;border-radius:25px;font-size:14px;">Sobre</a>
+<a href="#atividades-e-eventos" style="display:inline-block;padding:8px 18px;margin:4px;background:#2c3e50;color:#fff;text-decoration:none;border-radius:25px;font-size:14px;">Atividades</a>
+<a href="#calendário" style="display:inline-block;padding:8px 18px;margin:4px;background:#2c3e50;color:#fff;text-decoration:none;border-radius:25px;font-size:14px;">Calendário</a>
+<a href="#redes-sociais" style="display:inline-block;padding:8px 18px;margin:4px;background:#2c3e50;color:#fff;text-decoration:none;border-radius:25px;font-size:14px;">Redes Sociais</a>
+<a href="#contactos" style="display:inline-block;padding:8px 18px;margin:4px;background:#2c3e50;color:#fff;text-decoration:none;border-radius:25px;font-size:14px;">Contactos</a>
 
 </div>
 
@@ -32,19 +32,17 @@ lang: pt
 
 ## Sobre
 
-<div align="center">
+<div align="center" markdown="1">
 
-<!-- PLACEHOLDER: Substituir pelo logotipo ou fotografia oficial do Ateneu -->
-![Logotipo do Ateneu Popular do Montijo](assets/images/logo-placeholder.png)
-*[Substituir pela imagem oficial]*
+![Logotipo do Ateneu Popular do Montijo](assets/images/logo.png)
 
 </div>
 
-O **Ateneu Popular do Montijo** é uma associação cultural sem fins lucrativos, enraizada na comunidade de Montijo, dedicada à promoção da cultura, da educação e da participação cívica. Fundado com o espírito de reunir pessoas em torno do conhecimento e da criatividade, o Ateneu tem sido um espaço de encontro, aprendizagem e partilha para gerações de montijenses.
+O **Ateneu Popular do Montijo** é uma associação cultural sem fins lucrativos fundada a 15 de dezembro de 1939. Ao longo de mais de oito décadas, tem sido um espaço de encontro, aprendizagem e partilha para gerações de montijenses, fiel a uma matriz humanista e libertária. Em 2024 foi distinguido com a Medalha de Ouro da Cidade do Montijo.
 
 ### A Nossa Missão
 
-> *"Promover o acesso democrático à cultura, ao saber e à expressão artística, construindo uma comunidade mais justa, informada e solidária."*
+> *"Promover o acesso democrático à cultura, ao saber e à expressão artística, enraizados numa tradição humanista e libertária que nos guia desde 1939."*
 
 ### Os Nossos Valores
 
@@ -68,53 +66,36 @@ O **Ateneu Popular do Montijo** é uma associação cultural sem fins lucrativos
 
 ## Atividades e Eventos
 
-### Atividades Regulares
+#### Xadrez
 
-Ao longo do ano, o Ateneu Popular do Montijo oferece um conjunto diversificado de atividades abertas à comunidade:
+- **Escola de Xadrez** — Aulas gratuitas de iniciação e formação avançada, aos sábados. Abertas à comunidade, orientadas por treinadores certificados pela Federação Portuguesa de Xadrez.
+- **Competições oficiais** — O Ateneu compete na 2.ª Divisão Nacional e nos Campeonatos Distritais da Associação de Xadrez de Setúbal.
+- **Open de Xadrez** — Torneio anual em formato de partidas rápidas, organizado em parceria com as Festas de S. Pedro.
+- **Xadrez nas escolas** — Parcerias com escolas e ATLs para ensino da modalidade.
 
-#### Oficinas & Formação
+#### Melomania
 
-- **Oficina de Escrita Criativa** — Sessões quinzenais para todas as idades
-- **Clube de Leitura** — Encontros mensais em torno de obras literárias
-- **Oficina de Teatro** — Grupos de adultos e jovens, sessões semanais
-- **Ateliers de Artes Plásticas** — Pintura, desenho e expressão visual
-- **Formação Digital** — Literacia digital para seniores e público geral
+- **Sessões mensais de escuta** — Geralmente às sextas-feiras às 21h30. As luzes apagam-se, ouve-se um disco completo sem interrupções e conversa-se sobre a obra. Entrada gratuita, M/6 anos.
+- Iniciativa em parceria com a Companhia Mascarenhas-Martins, com mais de 20 edições realizadas desde 2023.
 
-#### Ciclos Culturais
+#### TertuLERia
 
-- **Ciclo de Cinema** — Sessões temáticas com debate
-- **Conferências e Palestras** — Convidados locais e nacionais sobre temas da atualidade
-- **Saraus Culturais** — Noites de poesia, música e dança
-- **Exposições** — Mostras de arte plástica, fotografia e artesanato local
+- **Último domingo de cada mês**, das 16h00 às 18h00, na sede do Ateneu.
+- Espaço aberto à leitura partilhada de poesia, prosa e outros textos. Cada participante traz e lê um texto à escolha. Aberto a todas as idades.
 
-#### Programação para Jovens
+#### Jogos
 
-- **Espaço Jovem** — Atividades de expressão e cidadania para adolescentes
-- **Voluntariado Jovem** — Projetos de intervenção comunitária
+- **Jogos de Tabuleiro** — Sessões regulares na sede do Ateneu. Jogos disponibilizados pelo grupo; podes também trazer os teus.
+  - Comunidade aberta a todos os níveis, de principiantes a veteranos.
+- **Domingos de Wargames** — Jogos de estratégia de miniaturas.
+  - Segundo domingo de cada mês, das 14h30 às 19h30.
 
----
+#### Fotografia
 
-### Eventos em Destaque
-
-> **[PLACEHOLDER — Evento em Destaque]**
->
-> **Nome do Evento:** *A definir*
-> **Data:** *A definir*
-> **Local:** Sede do Ateneu / [Local a confirmar]
-> **Descrição:** Breve descrição do evento especial aqui.
->
-> [**→ Mais informações**](#contactos)
+- **Exposições fotográficas** — O núcleo de fotografia organiza exposições regulares, com destaque para "Retratos do Cante", uma homenagem ao Cante Alentejano como Património Imaterial da UNESCO.
+- **Cursos** — Curso de Iniciação à Fotografia Digital com inscrição simbólica.
 
 ---
-
-### Inscrições e Informações
-
-Tens interesse em participar numa atividade ou evento?
-
-**[→ Contacta-nos para te inscreveres](#contactos)**
-
-> As inscrições podem ser feitas presencialmente na nossa sede, por email ou por telefone.
-> Algumas atividades são gratuitas; outras têm uma quota de participação simbólica.
 
 ---
 
@@ -122,72 +103,17 @@ Tens interesse em participar numa atividade ou evento?
 
 ### Agenda do Ateneu
 
-<!-- 
-  INSTRUÇÃO DE DESENVOLVIMENTO:
-  Substituir o bloco abaixo pelo embed do Google Calendar ou outra ferramenta.
-  Para Google Calendar, vai a: Calendar → Configurações → [O teu calendário] → Integrar calendário → Código de incorporação.
-  Cola o código iframe aqui. Exemplo de embed:
-
-  <iframe src="https://calendar.google.com/calendar/embed?src=SEU_CALENDARIO_ID&ctz=Europe%2FLisbon"
-    style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-
-  NOTA: O GitHub Pages com Jekyll permite HTML inline em ficheiros .md.
--->
-
-> **[Calendário será incorporado aqui]**
->
-> Em breve podes consultar toda a programação do Ateneu neste espaço.
-> Por enquanto, contacta-nos para saberes o que está planeado.
-
-**[→ Ver programa completo](#contactos)**
+<iframe src="https://teamup.com/ksvz9wuscgj5mhss1d?view=ti&tz=Calendar%20default&showHeader=0&showProfileAndInfo=0&showSidepanel=0&showViewSelector=1&showMenu=0&showViewHeader=1&showAgendaDetails=1&showDateControls=1&showDateRange=1" style="border: 1px solid #cccccc; width: 100%; height: 600px;" frameborder="0" scrolling="auto"></iframe>
 
 ---
 
 ## Redes Sociais
 
-Segue-nos nas nossas redes sociais e fica a par de todas as novidades, eventos e iniciativas do Ateneu Popular do Montijo!
+Segue-nos no Facebook e fica a par de todas as novidades, eventos e iniciativas do Ateneu Popular do Montijo!
 
----
-
-### Facebook
-
-<!-- PLACEHOLDER: Substituir # pelo URL real da página de Facebook -->
-**[🔵 Facebook — @AteneupopularMontijo](#)**
+**[🔵 Facebook — Ateneu Popular do Montijo](https://www.facebook.com/AteneuPopularMontijo/)**
 Acompanha publicações, eventos e novidades no dia a dia.
-> *[→ Seguir no Facebook](#)*
-
----
-
-### Instagram
-
-<!-- PLACEHOLDER: Substituir # pelo URL real do perfil de Instagram -->
-**[📷 Instagram — @ateneu_montijo](#)**
-Fotografias e histórias da nossa comunidade.
-> *[→ Seguir no Instagram](#)*
-
----
-
-### YouTube
-
-<!-- PLACEHOLDER: Substituir # pelo URL real do canal de YouTube -->
-**[▶️ YouTube — Ateneu Popular do Montijo](#)**
-Registo em vídeo de eventos, palestras e atividades culturais.
-> *[→ Subscrever o Canal](#)*
-
----
-
-### Outras Redes
-
-<!-- PLACEHOLDER: Adicionar ou remover conforme as redes utilizadas -->
-
-| Rede | Utilizador | Link |
-|---|---|---|
-| **Twitter / X** | *@ateneu_montijo* | [*→ Seguir*](#) |
-| **LinkedIn** | *Ateneu Popular do Montijo* | [*→ Conectar*](#) |
-
----
-
-> **Fica ligado!** Todas as novidades, inscrições e convocatórias são divulgadas primeiro nas nossas redes sociais.
+> *[→ Seguir no Facebook](https://www.facebook.com/AteneuPopularMontijo/)*
 
 ---
 
@@ -195,76 +121,26 @@ Registo em vídeo de eventos, palestras e atividades culturais.
 
 ### Como nos encontrar
 
-<!-- PLACEHOLDER: Substituir pelo endereço real da sede -->
 **Morada:**
 Ateneu Popular do Montijo
-[Rua/Praça — a confirmar]
-2870-000 Montijo
-Portugal
+Rua Luis Calado Nunes (Patio Aldegalega) Loja H
+2870-350 Montijo, Portugal
 
 ---
 
 **Email:**
-<!-- PLACEHOLDER: Substituir pelo email real -->
-[geral@ateneu-montijo.pt](mailto:geral@ateneu-montijo.pt)
+[ateneu.popular.montijo@gmail.com](mailto:ateneu.popular.montijo@gmail.com)
 
 ---
 
-**Telefone / Telemóvel:**
-<!-- PLACEHOLDER: Substituir pelo número real -->
-[+351 000 000 000](tel:+351000000000)
-
----
-
-**Horário de Atendimento:**
-<!-- PLACEHOLDER: Confirmar horários reais -->
-
-| Dia | Horário |
-|---|---|
-| Segunda a Sexta | 10h00 – 13h00 / 14h00 – 18h00 |
-| Sábado | 10h00 – 13h00 |
-| Domingo | Encerrado |
-
----
-
-### Formulário de Contacto
-
-<!--
-  INSTRUÇÃO DE DESENVOLVIMENTO:
-  Para adicionar um formulário funcional no GitHub Pages (site estático), usa um serviço externo:
-  - Formspree (https://formspree.io) — gratuito para uso básico
-  - Netlify Forms — se migrares para Netlify
-  - Google Forms — incorpora o iframe do formulário aqui
-
-  Exemplo com Formspree:
-  <form action="https://formspree.io/f/SEU_ID" method="POST">
-    <input type="text" name="nome" placeholder="O teu nome" required>
-    <input type="email" name="email" placeholder="O teu email" required>
-    <textarea name="mensagem" placeholder="A tua mensagem" required></textarea>
-    <button type="submit">Enviar</button>
-  </form>
--->
-
-> **[Formulário de contacto será adicionado aqui]**
->
-> Entretanto, contacta-nos diretamente por **email** ou **telefone**.
+**Telefone:**
+[21 231 5260](tel:+351212315260)
 
 ---
 
 ### Localização
 
-<!--
-  INSTRUÇÃO DE DESENVOLVIMENTO:
-  Substitui o bloco abaixo por um embed do Google Maps com a localização da sede.
-  Vai a Google Maps → Partilhar → Incorporar um mapa → Copia o código iframe.
-
-  <iframe src="https://www.google.com/maps/embed?pb=SEU_EMBED_ID"
-    width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
--->
-
-> **[Mapa será incorporado aqui]**
->
-> Montijo, Distrito de Setúbal, Portugal.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3118.5!2d-8.9736!3d38.7057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sRua+Luis+Calado+Nunes%2C+Montijo!5e0!3m2!1spt-PT!2spt!4v1" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
@@ -273,7 +149,7 @@ Portugal
 Queres fazer parte da nossa comunidade?
 Torna-te membro do Ateneu Popular do Montijo e apoia a cultura e a educação em Montijo!
 
-**[→ Saber mais sobre como associar-se](#contactos)**
+**[→ Saber mais sobre como associar-se](mailto:ateneu.popular.montijo@gmail.com)**
 
 > *A quota de associação é simbólica e permite-te participar em todas as atividades com condições especiais.*
 
@@ -281,7 +157,7 @@ Torna-te membro do Ateneu Popular do Montijo e apoia a cultura e a educação em
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## Ateneu Popular do Montijo
 
@@ -291,12 +167,8 @@ Torna-te membro do Ateneu Popular do Montijo e apoia a cultura e a educação em
 
 ---
 
-<!-- PLACEHOLDER: Substituir pelo ano de fundação real -->
-© 2025 Ateneu Popular do Montijo. Todos os direitos reservados.
+© 2026 Ateneu Popular do Montijo. Todos os direitos reservados.
 
 *Associação Cultural sem Fins Lucrativos · Montijo, Portugal*
-
-<!-- PLACEHOLDER: Adicionar NIPC/NIF da associação se aplicável -->
-*NIPC: [a confirmar]*
 
 </div>
