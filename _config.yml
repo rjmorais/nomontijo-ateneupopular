@@ -1,0 +1,15 @@
+title: Ateneu Popular do Montijo
+description: Cultura, Educação e Comunidade em Montijo
+lang: pt
+theme: minima
+
+# GitHub Pages
+url: "" # substituir pelo URL do GitHub Pages após publicação
+
+# Opções do tema Minima
+minima:
+  skin: classic
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
